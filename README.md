@@ -6,5 +6,4 @@ The finished app will be a fully functional music player. It will display album 
 
 https://trusting-varahamihira-6864cc.netlify.com
 
-![BlocJams](/images/blocjams-donotdelete.png)
-Format: ![BlocJams](https://www.dropbox.com/s/thn2h51zn5h7mjc/blocjams-donotdelete.png?dl=0)
+![BlocJams](/assets/images/blocjams-donotdelete.png)
